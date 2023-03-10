@@ -123,8 +123,8 @@ int main(void)
     //char postthis[1000] = "{\"authKey\": \"0\", \"type\": \"0\", \"title\": \"testtitle\", \"note\": \"notetest\", \"appendix\": \"appendixtest\", \"vlc\": \"vlctest\", \"latitude\": \"10\", \"longitude\": \"20\", \"accountType\": \"0\"}";
     //char login[1000]= "{\"userId\": \"mhnet\", \"password\": \"111111\"}";
     char input[100];
-    char inputID[100];
-    char inputPW[100];
+    //char inputID[100];
+    //char inputPW[100];
     char* temp;
     char chunk_temp[1000];
     char LOGIN_URL[1000] = "http://www.uhsdm.site/v1/users/login?userId=mhnet&password=111111";

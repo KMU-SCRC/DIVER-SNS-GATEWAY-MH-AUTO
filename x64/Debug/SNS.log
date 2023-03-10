@@ -1,8 +1,5 @@
 ﻿  SNS.c
 D:\PROJECT\SNS\SNS.c(59,13): warning C4013: '_mkdir'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 D:\PROJECT\SNS\SNS.c(368,197): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\PROJECT\SNS\SNS.c(685,201): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\PROJECT\SNS\SNS.c(127,10): warning C4101: 'inputPW' :참조되지 않은 지역 변수입니다.
-D:\PROJECT\SNS\SNS.c(126,10): warning C4101: 'inputID' :참조되지 않은 지역 변수입니다.
-LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+D:\PROJECT\SNS\SNS.c(695,201): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   SNS.vcxproj -> D:\PROJECT\SNS\x64\Debug\SNS.exe
