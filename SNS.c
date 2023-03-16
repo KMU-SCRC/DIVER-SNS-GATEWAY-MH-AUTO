@@ -110,7 +110,7 @@ int main(void)
     char underwaterPictureHigh[10] = "0.1";
     char underwaterVideoWithoutMic[10] = "0.1";
     char underwaterVideoWithMic[10] = "0.1";
-    char gnss[100] = "GNGGA,053008.095,,,,,0,0,,,M,,M,,*54";
+    char gnss[100] = "GNGGA,053008.095,37.8847493,N,127.1720248,E,0,0,,,M,,M,,*54";
     char title[1000] = "title_test";
     char note[1000] = "가속도: 0.1, 각속도: 0.1, 지자기: 0.1, 음성: 0.1, 자세: 0.1, 근접도: 0.1, 주변광: 0.1, 주변색: 0.1, 기압: 0.1, 온도: 0.1, 습도: 0.1, 수압: 0.1, 수심: 0.1, 고도: 0.1, 수온: 0.1, 수중 사진(저해상도): 0.1, 수중 사진(고해상도): 0.1, 수중 영상(음성 미포함): 0.1, 수중 영상(음성 포함): 0.1, 위치: 0.1";
     char appendix[1000] = "appendix_test";
